@@ -36,6 +36,8 @@ https://github.com/Diksha135/Water-level-detector/blob/main/water%20level%202.jp
 - *Water Level Calculation:* Converts the ultrasonic sensor reading into water level percentage, height, and volume.
 - *LCD Display:* Shows the water level percentage, volume, and a progress bar.
 
+https://github.com/Diksha135/Water-level-detector/blob/main/water%20level.jpg
+
 ## Features
 - *Real-Time Water Level Measurement:* Continuously measures and updates the water level.
 - *Error Handling:* Displays an error message if the ultrasonic sensor fails to detect a response.
