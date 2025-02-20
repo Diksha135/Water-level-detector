@@ -39,7 +39,8 @@ This project uses an ultrasonic sensor to measure the water level in a tank and 
 - *Water Level Calculation:* Converts the ultrasonic sensor reading into water level percentage, height, and volume.
 - *LCD Display:* Shows the water level percentage, volume, and a progress bar.
 
-https://github.com/Diksha135/Water-level-detector/blob/main/water%20level.jpg
+
+![water level 2](https://github.com/user-attachments/assets/22cea491-19bf-48f7-89f9-039bf46dac20)
 
 ## Features
 - *Real-Time Water Level Measurement:* Continuously measures and updates the water level.
